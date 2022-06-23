@@ -1,4 +1,10 @@
 body{
-    background-color: rgb(242, 255, 245)!important;
-    padding-left: 80px;
+    background-color: rgb(220, 255, 228)!important;
+
+    font-family: "Trebuchet MS", sans-serif;
+      }
+div.body{
+    padding-left: 80px; 
+    padding-right: 80px;
+    text-align:center;
 }
